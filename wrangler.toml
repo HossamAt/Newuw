@@ -1,0 +1,8 @@
+name = "newuw"
+main = "src/index.ts"
+compatibility_date = "2026-10-05"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "onestate-hub-db"
+database_id = "c25e59fa-4e2d-47fa-8ede-24397341cae4"
