@@ -6,7 +6,7 @@ compatibility_date = "2026-10-05"
 [[d1_databases]]
 binding = "DB"
 database_name = "onestate-hub-db"
-database_id = "REPLACE_WITH_D1_DATABASE_ID"
+database_id = "c25e59fa-4e2d-47fa-8ede-24397341cae4"
 
 # أنشئ R2 bucket بهذا الاسم
 [vars]
